@@ -1,2 +1,2 @@
-pyrankvote==2.0.2
+pyrankvote==2.0.6
 
